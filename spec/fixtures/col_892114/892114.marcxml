@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns='http://www.loc.gov/MARC21/slim'>
+  <leader>01511cam a2200433 a 4500</leader>
+  <controlfield tag='001'>892114</controlfield>
+  <controlfield tag='005'>20100314000113.0</controlfield>
+  <controlfield tag='008'>900417s1989    is       b    00000 yid d</controlfield>
+  <datafield ind1=' ' ind2=' ' tag='035'>
+    <subfield code='a'>(OCoLC)21382658</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='035'>
+    <subfield code='a'>(OCoLC)ocm21382658</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='035'>
+    <subfield code='a'>(CStRLIN)NYCG90-B78315</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='035'>
+    <subfield code='9'>AEW2865CU</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='035'>
+    <subfield code='a'>(NNC)892114</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='040'>
+    <subfield code='a'>OCH</subfield>
+    <subfield code='c'>OCH</subfield>
+    <subfield code='d'>CtY</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='043'>
+    <subfield code='a'>e-ur---</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='066'>
+    <subfield code='c'>(2</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='090'>
+    <subfield code='a'>PJ5140.6</subfield>
+    <subfield code='b'>L53 1989</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='090'>
+    <subfield code='a'>\PJ\5140.6\L53\1989</subfield>
+    <subfield code=' '>NYYH</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='090'>
+    <subfield code='a'>PJ5140.6</subfield>
+    <subfield code='b'>.P6 1989</subfield>
+    <subfield code=' '>NYJH</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='090'>
+    <subfield code='a'>/98291</subfield>
+    <subfield code=' '>NXYH</subfield>
+  </datafield>
+  <datafield ind1='1' ind2=' ' tag='130'>
+    <subfield code='a'>Lid un tfile.</subfield>
+  </datafield>
+  <datafield ind1='1' ind2='0' tag='245'>
+    <subfield code='6'>880-01</subfield>
+    <subfield code='a'>Lid un tfile /</subfield>
+    <subfield code='c'>[oysgeḳlibn fun] Eliʻezer Podriaṭshiḳ.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='260'>
+    <subfield code='6'>880-02</subfield>
+    <subfield code='a'>Tel-Aviv :</subfield>
+    <subfield code='b'>Farlag Y.L. Perets,</subfield>
+    <subfield code='c'>1989.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='300'>
+    <subfield code='a'>182 p. ;</subfield>
+    <subfield code='c'>23 cm.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='500'>
+    <subfield code='a'>Poems and a critical essay.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='500'>
+    <subfield code='a'>In Yiddish.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='500'>
+    <subfield code='a'>T.p. partially vocalized.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='504'>
+    <subfield code='a'>Essay includes bibliographical references.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2='0' tag='650'>
+    <subfield code='a'>Yiddish poetry</subfield>
+    <subfield code='z'>Soviet Union.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2='0' tag='650'>
+    <subfield code='a'>Yiddish poetry</subfield>
+    <subfield code='z'>Soviet Union</subfield>
+    <subfield code='x'>History and criticism.</subfield>
+  </datafield>
+  <datafield ind1='1' ind2='0' tag='700'>
+    <subfield code='a'>Podriachik, Eliezer.</subfield>
+  </datafield>
+  <datafield ind1='1' ind2='0' tag='880'>
+    <subfield code='6'>245-01/(2/r</subfield>
+    <subfield code='a'>ליד און תפילה /</subfield>
+    <subfield code='c'>[אויסגעקליבן פון] אליעזר פאדריאטשיק.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='880'>
+    <subfield code='6'>260-02/(2/r</subfield>
+    <subfield code='a'>תל־אביב :</subfield>
+    <subfield code='b'>פארלאג י.ל. פרץ,</subfield>
+    <subfield code='c'>9891.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='950'>
+    <subfield code='b'>\PJ\5140.6\.L72</subfield>
+    <subfield code=' '>MIUH</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='965'>
+    <subfield code='a'>marcadia</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='991'>
+    <subfield code='a'>ME24511</subfield>
+    <subfield code='b'>glx+ME--+00024511</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='992'>
+    <subfield code='a'>Offsite</subfield>
+    <subfield code='b'>Offsite - Place Request for delivery within 2 business days &gt;&gt; ME24511|DELIM|1134785</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='993'>
+    <subfield code='a'>Book</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='995'>
+    <subfield code='a'>catalog</subfield>
+  </datafield>
+</record>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record xmlns='http://www.loc.gov/MARC21/slim'>
+  <leader>01611cam a2200397 i 4500</leader>
+  <controlfield tag='001'>19927</controlfield>
+  <controlfield tag='005'>20100219013651.0</controlfield>
+  <controlfield tag='008'>800414s1977    nyuab         001 0 eng  </controlfield>
+  <datafield ind1=' ' ind2=' ' tag='010'>
+    <subfield code='a'>   77073772 </subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='020'>
+    <subfield code='a'>0528830821 :</subfield>
+    <subfield code='c'>$29.95</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='035'>
+    <subfield code='a'>(OCoLC)317398262</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='035'>
+    <subfield code='a'>(OCoLC)ocn317398262</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='035'>
+    <subfield code='a'>(CStRLIN)NYCG15164802-B</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='035'>
+    <subfield code='9'>AAC0919CU</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='035'>
+    <subfield code='a'>(NNC)19927</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='040'>
+    <subfield code='d'>NNC</subfield>
+  </datafield>
+  <datafield ind1='0' ind2=' ' tag='050'>
+    <subfield code='a'>G2800</subfield>
+    <subfield code='b'>.R3 1977</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='082'>
+    <subfield code='a'>912/.1/55146</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='090'>
+    <subfield code='b'>G2800.R3 1977</subfield>
+  </datafield>
+  <datafield ind1='0' ind2=' ' tag='130'>
+    <subfield code='a'>Atlas of the oceans.</subfield>
+  </datafield>
+  <datafield ind1='0' ind2='4' tag='245'>
+    <subfield code='a'>The Rand McNally atlas of the oceans /</subfield>
+    <subfield code='c'>[editor, Martyn Bramwell].</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='260'>
+    <subfield code='a'>New York :</subfield>
+    <subfield code='b'>Rand McNally,</subfield>
+    <subfield code='c'>c1977.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='300'>
+    <subfield code='a'>208 p. :</subfield>
+    <subfield code='b'>ill. (some col.), col. maps ;</subfield>
+    <subfield code='c'>38 cm.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='500'>
+    <subfield code='a'>Simultaneously published in London by Mitchell Beazley under title: Mitchell Beazley atlas of the oceans; also simultaneously published in South Melbourne, Victoria by Macmillan under title: The Macmillan atlas of the oceans.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='500'>
+    <subfield code='a'>Includes index.</subfield>
+  </datafield>
+  <datafield ind1='0' ind2=' ' tag='505'>
+    <subfield code='a'>The ocean realm.--Man&apos;s oceanic quest.--Life in the oceans.--The great resource.--The face of the deep.--Encyclopedia of marine life.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2='0' tag='650'>
+    <subfield code='a'>Oceanography</subfield>
+    <subfield code='v'>Charts, diagrams, etc.</subfield>
+  </datafield>
+  <datafield ind1='1' ind2=' ' tag='700'>
+    <subfield code='a'>Bramwell, Martyn.</subfield>
+  </datafield>
+  <datafield ind1='0' ind2='1' tag='740'>
+    <subfield code='a'>Atlas of the oceans.</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='900'>
+    <subfield code='a'>AUTH</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='990'>
+    <subfield code='a'>G</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='991'>
+    <subfield code='a'>G2800 .R3 1977</subfield>
+    <subfield code='b'>loc+G--+2800+00000000+R3000000+001977</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='992'>
+    <subfield code='a'>Lehman</subfield>
+    <subfield code='b'>Lehman Atlas Collection (Non-Circulating) &gt;&gt; G2800.R3 1977|DELIM|30864</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='992'>
+    <subfield code='a'>Offsite</subfield>
+    <subfield code='b'>Offsite - Place Request for delivery within 2 business days &gt;&gt; G2800 .R3 1977|DELIM|30865</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='993'>
+    <subfield code='a'>Book</subfield>
+  </datafield>
+  <datafield ind1=' ' ind2=' ' tag='995'>
+    <subfield code='a'>catalog</subfield>
+  </datafield>
+</record>
