@@ -6,14 +6,12 @@ describe 'prefTitle of the work described by the MARC record' do
   # LD4All Sample MARC Test:
   # The prefTitle generated for the Work described by a MARC record.
   # Work altTitle, identifiers are tested elsewhere.
+  # TBD: add 880 stuff.
   #
   # prefTitle logic: 1. Uniform title as main entry, no agent name (130) ;
   #                  2. Uniform title as main entry, with or without agent name (240) ;
   #                  3. Transcribed main title, with or without agent name (245) .
   #
-  # altTitle, Work identifiers are tested elsewhere.
-  # Authorized access points are not covered in BF2 / ld4all (at present).
-  # Need to add 880 stuff.
   # Test logic: 1. If there is a 130 present:
   #                1a. The first (or only) subfield ($a or $k) == MainTitleElement instance (obl.: 1) of prefTitle of Work ;
   #                1b. The second (or other) subfield(s) == TitleElement instances (obl.: 0,n) of prefTitle of Work ;
